@@ -1,5 +1,5 @@
 # PWA Budget-Tracker
-# Workout-Tracker
+
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40Vinyl77-orange)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
